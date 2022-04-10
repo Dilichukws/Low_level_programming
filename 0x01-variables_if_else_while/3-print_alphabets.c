@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main - entry point 
+ * main - entry point
  *
  * Description; print lower and uppercase in the same line
  * Return: 0
@@ -16,5 +16,5 @@ putchar('A' + c);
 
 putchar('\n');
 
-return 0;
+return (0);
 }
