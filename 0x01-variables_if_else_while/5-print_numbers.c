@@ -1,12 +1,11 @@
 #include<stdio.h>
-
 /**
-  * main - entry point 
+  * main - entry point
   *
   * Description: print number 0 to 9 on one line
   * Return: 0
   */
-int main (void)
+int main(void)
 {
 char i;
 
