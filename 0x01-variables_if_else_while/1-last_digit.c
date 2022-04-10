@@ -3,8 +3,10 @@
 #include<stdio.h>
 /**
 * main - Entry point
+*
 *Description: Prints a number and it's last digit along with wether it's
 )last digit is 0, greater than 5, or less than 6 and not 0.
+*
 * Return: 0
 */
 int main(void)
@@ -30,7 +32,6 @@ else
 {
 printf("Last digit of %i is %i and is less than 6 and not 0\n", n, n % 10);
 }
-
 
 return (0);
 }
