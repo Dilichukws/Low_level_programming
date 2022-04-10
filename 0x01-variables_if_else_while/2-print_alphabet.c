@@ -3,7 +3,7 @@
  * Main - entry point
  *
  * Description: print the lowercase alphabet
- * Return 0
+ * Return: 0
  */
 int main (void)
 {
