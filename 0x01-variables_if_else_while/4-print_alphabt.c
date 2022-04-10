@@ -5,7 +5,7 @@
  * Description: print lowercase alphabet excluding e and q
  * Return: 0
  */
-int main (void)
+int main(void)
 {
 char c;
 
