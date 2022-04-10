@@ -9,10 +9,10 @@ int main (void)
 {
 char c;
 
-for (c = 'a'; c <= 'z'; +cc)
+for (c = 'a'; c <= 'z'; ++c)
 {
 if (c != 'a' && c != 'q')
-putchar(c)
+putchar(c);
 }
 
 putchar('\n');
