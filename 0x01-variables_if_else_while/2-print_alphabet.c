@@ -2,10 +2,11 @@
 /**
  * Main - entry point
  *
- * Description: print the lowercase alphabet
+ * Description: print the lowercase alphabe
+ *
  * Return: 0
  */
-int main (void)
+int main(void)
 {
 int c;
 
