@@ -3,7 +3,7 @@
 /**
  * print_alphabet_x10 - Print v10 times the alpabet, in lowercase
  */
-void print_alpabet_x10(void)
+void print_alphabet_x10(void)
 {
 int count = 0;
 char letter;
