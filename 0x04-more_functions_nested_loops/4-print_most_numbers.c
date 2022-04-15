@@ -1,30 +1,26 @@
 #include "main.h"
 
 /**
- * print_diagonal - prints diagonals
- * @n: limit
+ * print_most_numbers - prints except 2 and 4t
  *
- * Return: void
+ * Return: 0 always(success)
  */
 
-void print_diagonal(int n)
+void print_most_numbers(void)
 {
-int i, j;
+int i;
 
-if (n > 0)
+i = 0;
+
+for (i = 0; i < 10; i++)
 {
-for (i = 0; i < n; i++)
-{
-for (j = 0; j < i; j++)
-{
-_putchar(' ');
+if (i == 2 || i == 4)
+
+i++;
+
+_putchar(i + '0');
+
 }
-_putchar('\\');
-_putchar('\n');
-}
-}
-else
-{
-_putchar('\n');
-}
+_putchar ('\n');
+
 }
