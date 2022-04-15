@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_diagonal - prunts diagonals
+ * print_diagonal - prints diagonals
  * @n: limit
  *
  * Return: void
