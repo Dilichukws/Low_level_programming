@@ -3,7 +3,7 @@
 /**
  * main - prime factors of 612853475153
  *
- * Returm: 0
+ * Returm: int
  */
 
 int main(void)
