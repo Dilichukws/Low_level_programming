@@ -3,7 +3,7 @@
  *_strncat - concatenates two strings
  *@dest: A pointer character that will be changed
  *@src: A pointer to a character that will be changed
- *n: value
+ *@n: value
  *Return: dest
  */
 char *_strncat(char *dest, char *src, int n)
@@ -28,6 +28,5 @@ i++;
 dest[i] = '\0';
 
 return (dest);
-
 }
 
