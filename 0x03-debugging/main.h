@@ -1,4 +1,4 @@
-#ifndef MAIN_H
+-Wall -Werror -Wextra -pedantic -std=gnu89 2-largest_number.c 2-main.c -o 2-mainifndef MAIN_H
 #define MAIN_H
 
 #include <stdio.h>
